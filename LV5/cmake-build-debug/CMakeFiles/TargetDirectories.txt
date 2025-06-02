@@ -1,0 +1,3 @@
+C:/Users/Antonio/Desktop/Demos/Prog 2 Labosi/LV5/cmake-build-debug/CMakeFiles/LV5.dir
+C:/Users/Antonio/Desktop/Demos/Prog 2 Labosi/LV5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Antonio/Desktop/Demos/Prog 2 Labosi/LV5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+C:/Users/Antonio/Desktop/Demos/Programiranje 2/LV11/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Antonio/Desktop/Demos/Programiranje 2/LV11/cmake-build-debug/CMakeFiles/rebuild_cache.dir
